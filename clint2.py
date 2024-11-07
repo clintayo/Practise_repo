@@ -3,7 +3,7 @@ def simple_multiplication(my_data):
 
     Doing a simple code and checking if updates are occurring
     :return:
-    this has worked - WOWWEEE
+    this has worked - WOWWEE
 
     """
 
